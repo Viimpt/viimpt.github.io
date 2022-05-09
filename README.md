@@ -1,4 +1,4 @@
-## > Voting is important
+> Voting is important
 
 
 # Jekyll Now
