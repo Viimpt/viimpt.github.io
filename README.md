@@ -1,4 +1,3 @@
+
+**Viimpt Homepage**
 > Voting is important
-
-
-**Viimpt**
