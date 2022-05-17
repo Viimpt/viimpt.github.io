@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are aiming to develop a novel, and transparent voting system, Viimpt.
 
-### More Information
-
-We are aiming
 
